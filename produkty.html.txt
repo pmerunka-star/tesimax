@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>TESIMAX – Produkty</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+    <div class="top-bar container">
+        <div class="logo"><a href="index.html">TESIMAX</a></div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Úvod</a></li>
+                <li><a href="produkty.html">Produkty</a></li>
+                <li><a href="servis.html">Servis</a></li>
+                <li><a href="kontakt.html">Kontakt</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<section class="section">
+    <div class="container">
+        <h2>Produktové řady</h2>
+
+        <div class="grid grid-3">
+            <div class="card">
+                <h3>Plynotěsné oděvy</h3>
+                <p>Maximální ochrana proti toxickým plynům.</p>
+            </div>
+
+            <div class="card">
+                <h3>Postřikové oděvy</h3>
+                <p>Lehká ochrana proti kapalinám a aerosolům.</p>
+            </div>
+
+            <div class="card">
+                <h3>Speciální oděvy</h3>
+                <p>Kombinovaná ochrana proti chemii a teplu.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="footer">
+    <div class="container"><p>© TESIMAX</p></div>
+</footer>
+
+</body>
+</html>

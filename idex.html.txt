@@ -1,0 +1,9 @@
+tesimax/
+│
+├── index.html
+├── produkty.html
+├── servis.html
+├── kontakt.html
+├── styles.css
+└── assets/
+      └── hero.jpg   (můžeš použít libovolný obrázek)
